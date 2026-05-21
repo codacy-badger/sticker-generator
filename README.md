@@ -4,6 +4,8 @@
 
 # Sticker Maker Pro
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/703e13f155a045368fa73752e8d414e7)](https://app.codacy.com/gh/daniel-yfc/sticker-generator?utm_source=github.com&utm_medium=referral&utm_content=daniel-yfc/sticker-generator&utm_campaign=Badge_Grade)
+
 [繁體中文版說明 (Traditional Chinese)](README_zh.md)
 
 Sticker Maker Pro is an AI-powered sticker generator web application. It transforms your portrait photos into high-quality, stylized stickers using the Google Gemini API (`gemini-2.5-flash-image`). Choose from 12 distinct art styles, easily edit and crop your photos, and even generate a cohesive set of stickers with varying expressions!
